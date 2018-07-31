@@ -33,8 +33,6 @@ We would like to extend our thanks to the following sponsors for helping fund on
 
 - **[Vehikl](https://vehikl.com/)**
 - **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
 - **[British Software Development](https://www.britishsoftware.co)**
 - [Fragrantica](https://www.fragrantica.com)
 - [SOFTonSOFA](https://softonsofa.com/)
@@ -43,9 +41,9 @@ We would like to extend our thanks to the following sponsors for helping fund on
 - [CodeBrisk](https://codebrisk.com)
 - [1Forge](https://1forge.com)
 - [TECPRESSO](https://tecpresso.co.jp/)
+- [Pulse Storm](http://www.pulsestorm.net/)
 - [Runtime Converter](http://runtimeconverter.com/)
 - [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
 
 ## Contributing
 
@@ -58,5 +56,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-"# laravelEcho" 
-"# laravelEcho" 
+"# websocket" 
